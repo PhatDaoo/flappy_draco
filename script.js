@@ -27,7 +27,7 @@ let currentDracoSprite;
 let wingFlapSpeed = 25; 
 
 // Vật lý
-let velocityX = -2; 
+let velocityX = -3; 
 let velocityY = 0; 
 let gravity = 0.15; 
 let jumpStrength = -5; 
